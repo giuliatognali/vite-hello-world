@@ -10,18 +10,8 @@ export default{
 }
 </script>
 
-
-
 <template>
   <AppTitle></AppTitle>
   <AppHero></AppHero>
 
 </template>
-
-
-
-<style scoped>
-h1{
-  text-decoration: underline;
-}
-</style>

@@ -3,7 +3,7 @@
 export default {
     data() {
         return {
-            message: 'Hello World!'
+            message: 'La mia prima app con Vite! '
         }
     }
 }
@@ -17,6 +17,6 @@ export default {
 <!-- css -->
 <style scoped>
 h1 {
-    text-decoration: underline;
+    color: lightgray;
 }
 </style>
