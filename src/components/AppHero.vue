@@ -1,6 +1,7 @@
 <!-- js -->
 <script>
 export default {
+    name: 'AppHero',
     data() {
         return {
             img: "src/assets/confusion-confusion-every.jpg"
